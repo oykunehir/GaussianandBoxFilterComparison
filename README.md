@@ -4,7 +4,7 @@ This code filter the gray-level image and a 21x21 Gaussian filter. Shows the res
 
 You may found more information about [Gaussian Filtering](http://daringfireball.net/projects/markdown/syntax) and [Box Filtering](https://en.wikipedia.org/wiki/Box_blur).
 
-##Discussion and Results
+## Discussion and Results
 Two filters were applied on the image with the convolution method.
 
 For the Gaussian filtering method, 21x21 kernel size was selected and tested at different sigma values. As the sigma value increased, the blurring of the image increased. The reason for this is the increase in the rate of the pixel being affected by the neighboring pixels.
